@@ -1,0 +1,4 @@
+D:\quantico06\ISTA322\Quizzes\Quizquiz\obj\Debug\netcoreapp3.1\Quizquiz.csprojAssemblyReference.cache
+D:\quantico06\ISTA322\Quizzes\Quizquiz\obj\Debug\netcoreapp3.1\Quizquiz.AssemblyInfoInputs.cache
+D:\quantico06\ISTA322\Quizzes\Quizquiz\obj\Debug\netcoreapp3.1\Quizquiz.AssemblyInfo.cs
+D:\quantico06\ISTA322\Quizzes\Quizquiz\obj\Debug\netcoreapp3.1\Quizquiz.csproj.CoreCompileInputs.cache

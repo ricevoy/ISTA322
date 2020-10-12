@@ -1,0 +1,13 @@
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.exe
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.deps.json
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.runtimeconfig.json
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.runtimeconfig.dev.json
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.dll
+D:\quantico06\ISTA322\exercises\Progex6\bin\Debug\netcoreapp3.1\Progex6.pdb
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.csprojAssemblyReference.cache
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.AssemblyInfoInputs.cache
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.AssemblyInfo.cs
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.csproj.CoreCompileInputs.cache
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.dll
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.pdb
+D:\quantico06\ISTA322\exercises\Progex6\obj\Debug\netcoreapp3.1\Progex6.genruntimeconfig.cache
